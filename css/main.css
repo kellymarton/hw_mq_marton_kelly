@@ -1,15 +1,18 @@
 body {
     background-color: blue;
 }
-@media screen and (min-width: 675px)
+@media screen and (min-width: 675px) {
     body {
-    background-color: yellow;
+        background-color: yellow;
+    }
 }
-@media screen and (min-width: 99px)
+@media screen and (min-width: 99px) {
     body {
-    background-color: green;
+        background-color: green;
+    }
 }
-@media screen and (min-width: 1280px)
+@media screen and (min-width: 1280px) {
     body {
-    background-color: purple;
+        background-color: purple;
+    }
 }
