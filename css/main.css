@@ -1,0 +1,15 @@
+body {
+    background-color: blue;
+}
+@media screen and (min-width: 675px)
+    body {
+    background-color: yellow;
+}
+@media screen and (min-width: 99px)
+    body {
+    background-color: green;
+}
+@media screen and (min-width: 1280px)
+    body {
+    background-color: purple;
+}
